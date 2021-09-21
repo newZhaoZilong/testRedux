@@ -1,3 +1,4 @@
+## [尚硅谷2021版React技术全家桶全套完整版（零基础入门到精通/男神天禹老师亲授）](https://www.bilibili.com/video/BV1wy4y1D7JT "超链接title")
 ## 1.求和案例_redux精简版
 		(1).去除Count组件自身的状态
 		(2).src下建立:
